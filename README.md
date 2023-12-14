@@ -35,7 +35,7 @@ pacs/
 |–– images/
 |–– splits/
 ```
-
+Download the open-set dataset [PACS_webdata](https://drive.google.com/file/d/10ODo4SDteqMkcCUrZFxldacXpnTH8uga/view?usp=sharing) and [OfficeHome_webdata](https://drive.google.com/file/d/10ODo4SDteqMkcCUrZFxldacXpnTH8uga/view?usp=sharing)
 **Digits-DG**
 
 Since we provide the dataset splits in this repo,you just need to download the dataset [Digits-DG](https://drive.google.com/file/d/15V7EsHfCcfbKgsDmzQKj_DfXt_XYp_P7/view) to data/digits_dg/images and unzip it
